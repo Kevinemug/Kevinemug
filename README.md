@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kevinemug
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning computer and software engineering
-- 💞️ I’m looking to collaborate on both frontend and backend
+- 👀 I am currently learning computer and software engineering at university of Rwanda
+- 🌱 Am also taking embedded system design at Alison
+- 💞️ Am also an alx student
 - 📫 How to reach me kevineeuwamahoro@gmail.com
 
 <!---
