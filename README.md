@@ -1,5 +1,5 @@
 
- # Hi ✋ I am Kevine, and am a code addict 🤭
+ # Hi ✋ I am Kevine, and I'm a code addict 🤭
 
 
 <!---
