@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,tailwind)](https://skillicons.dev)
 
 # l
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinemug&hide_progress=true)](https://github.com/Kevinemug/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinemug&hide_progress=false)](https://github.com/Kevinemug/github-readme-stats)
