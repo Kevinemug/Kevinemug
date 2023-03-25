@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Kevinemug
-- 👀 I am currently learning computer and software engineering at university of Rwanda
-- 🌱 Am also taking embedded system design at Alison
-- 💞️ Am also an alx student
-- 📫 How to reach me kevineeuwamahoro@gmail.com
+ Hi, I’m @Kevinemug
+ # a passionate Software developer
+
 
 <!---
 Kevinemug/Kevinemug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
