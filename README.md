@@ -9,10 +9,5 @@ Kevinemug/Kevinemug is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-## Skills
-
-- Programming languages: :coffee: Java, :snake: Python, :js: JavaScript
-- Frameworks: ⚛️: React, :angular: Angular, :spring: Spring Boot
-- Databases: :mysql: MySQL, :postgres: PostgreSQL, :mongodb: MongoDB
-- Cloud computing: :aws: AWS, :gcp: GCP, :azure: Azure
-- DevOps tools: :jenkins: Jenkins, :docker: Docker, :kubernetes: Kubernetes
+## Technical Expertise
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
