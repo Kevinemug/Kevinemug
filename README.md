@@ -12,12 +12,7 @@ You can click the Preview link to take a look at your changes.
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,tailwind)](https://skillicons.dev)
 
-![Kevinemug's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevinemug&show_icons=true&theme=radical)
 
-## Lately I have been coding in:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
- 
 ## My everyday Inspiration
 
 
