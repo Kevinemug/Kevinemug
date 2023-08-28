@@ -12,6 +12,10 @@ You can click the Preview link to take a look at your changes.
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,tailwind,typescript)](https://skillicons.dev)
 
+## My socials
+
+https://www.codewars.com/users/kevinemug
+
 
 ## My everyday Inspiration
 
