@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,tailwind,typescript)](https://skillicons.dev)
 
 
-## codewars
+
 
 https://www.codewars.com/users/kevinemug/badges/large
 
