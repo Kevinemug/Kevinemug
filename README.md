@@ -15,8 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-https://www.codewars.com/users/kevinemug/badges/large
-
+![codewars](https://www.codewars.com/users/kevinemug/badges/small)
 
 ## My everyday Inspiration
 
