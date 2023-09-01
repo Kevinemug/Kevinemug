@@ -20,7 +20,4 @@ You can click the Preview link to take a look at your changes.
 
 ## My everyday Inspiration
 
-
-![download](https://user-images.githubusercontent.com/98740834/227730064-a2c80c9c-353b-49c9-8c2e-c74632bf9aa3.jpg)
-
 ![download](https://user-images.githubusercontent.com/98740834/227730275-000d0dd8-2329-4c23-a483-1470c7489cff.png)
