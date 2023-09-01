@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ![codewars](https://www.codewars.com/users/kevinemug/badges/small)
+[![](https://visitcount.itsvg.in/api?id=Kevinemug&label=Profile%20Views&color=11&icon=7&pretty=true)](https://visitcount.itsvg.in)
 
 ## My everyday Inspiration
 
