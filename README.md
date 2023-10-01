@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 
 [![](https://visitcount.itsvg.in/api?id=Kevinemug&label=Profile%20Views&color=11&icon=7&pretty=true)](https://visitcount.itsvg.in)
-![Kevinemug's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevinemug&show_icons=true&theme=transparent)
+
 
 ## My everyday Inspiration
 
