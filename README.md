@@ -1,5 +1,5 @@
 
- # Hi ✋ I'm Kevine, and I'm a cool nerd 🤓
+ # Hi ✋ I'm Kevine, and I like anything related to tech!
 
 
 <!---
