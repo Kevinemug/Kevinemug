@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 --->  
 [![](https://visitcount.itsvg.in/api?id=Kevinemug&label=Profile%20Views&color=11&icon=7&pretty=true)](https://visitcount.itsvg.in)
 
-## Technical Expertise
+## Technical Expertise.
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,react,laravel)](https://skillicons.dev) 
 [![My Skills](https://skillicons.dev/icons?i=java,figma&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nodejs,tailwind,c,typescript)](https://skillicons.dev)
