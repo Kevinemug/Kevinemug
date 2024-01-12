@@ -1,5 +1,5 @@
            
- ## Hi ✋ I'm Kevine, and I like anything related to tech 🤖                   
+ ## Hi ✋ I'm Kevine, and I like anything related to tech🤖                   
 
  
 <!---
