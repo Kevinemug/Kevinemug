@@ -1,5 +1,8 @@
            
- ## Hi ✋ I'm Kevine, and I like anything related to tech🤖                   
+ ## Hello Earth✋, I'm Kevine   
+ I believe in the power of technology to make a positive impact, one commit at a time.</br> 
+ Here, you'll find projects that are more than just code—they're tiny pieces of my journey to make the world a better, more connected place. 🌍
+ Through code, I strive to solve puzzles not just on screens, but in lives, believing that every line of code holds the potential to create a ripple of change. 
 
  
 <!---
