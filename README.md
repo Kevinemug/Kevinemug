@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->  
 
 
-## Technical Expertise
+## Technical Expertise.
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,react,laravel)](https://skillicons.dev) 
 [![My Skills](https://skillicons.dev/icons?i=java,figma&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nodejs,tailwind,c,typescript)](https://skillicons.dev)
@@ -23,6 +23,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-## My Motto
+## My Motto.
 
 ![download](https://user-images.githubusercontent.com/98740834/227730275-000d0dd8-2329-4c23-a483-1470c7489cff.png)
