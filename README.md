@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 
 
 ## Technical Expertise.
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,react,laravel)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,react,nodejs,laravel)](https://skillicons.dev) 
 [![My Skills](https://skillicons.dev/icons?i=java,figma&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs,tailwind,c,typescript,angular,nestjs,jest,docker,postgresql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,c,typescript,angular,nestjs,jest,docker,postgresql,mongodb)](https://skillicons.dev)
 
 
 ## Visitors 🧑‍🤝‍🧑
