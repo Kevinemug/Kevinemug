@@ -1,8 +1,6 @@
            
  ## Hello World✋, I'm Kevine.
- I believe in the power of technology to make a positive impact, one commit at a time.</br> 
- Here, you'll find projects that are more than just code—they're tiny pieces of my journey to make the world a better, more connected place 🌍
-
+ Welcome to my profile!
  
 <!---
 Kevinemug/Kevinemug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
