@@ -1,7 +1,6 @@
            
  ## Hello World✋, I'm Kevine.
- I'm a passionate software developer at Ojemba, </br>
- focused on building smart and effective solutions to make technology work seamlessly.
+ I'm a passionate software developer focused on building smart and effective solutions to make technology work seamlessly.
  
 <!---
 Kevinemug/Kevinemug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
