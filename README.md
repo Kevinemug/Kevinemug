@@ -14,12 +14,6 @@ You can click the Preview link to take a look at your changes.
 [![My Skills](https://skillicons.dev/icons?i=tailwind,c,typescript,angular,nestjs,jest,docker,postgresql,mongodb,aws)](https://skillicons.dev)
 
 
-## Visitors 🧑‍🤝‍🧑
-
-[![](https://visitcount.itsvg.in/api?id=Kevinemug&label=Profile%20Views&color=11&icon=7&pretty=true)](https://visitcount.itsvg.in)
-
-
-
 
 ## My Motto.
 
