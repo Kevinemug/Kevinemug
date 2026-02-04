@@ -1,6 +1,6 @@
            
  ## Hello World✋, I'm Kevine.
- I'm a passionate software Engineer focused on building smart and effective solutions.
+ I'm a passionate Software Engineer focused on building smart and effective solutions.
  
 <!---
 Kevinemug/Kevinemug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
